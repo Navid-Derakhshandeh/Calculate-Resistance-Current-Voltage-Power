@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVCP", "RVCP\RVCP.csproj", "{8CF70EF5-0126-49B0-9D5A-3FB8359A5AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF70EF5-0126-49B0-9D5A-3FB8359A5AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF70EF5-0126-49B0-9D5A-3FB8359A5AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF70EF5-0126-49B0-9D5A-3FB8359A5AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF70EF5-0126-49B0-9D5A-3FB8359A5AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C042ABE-9806-42FE-94E5-BC6AEE7C3A2B}
+	EndGlobalSection
+EndGlobal

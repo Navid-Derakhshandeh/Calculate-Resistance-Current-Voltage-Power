@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.exe
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.deps.json
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.dll
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\bin\Debug\netcoreapp3.1\RVCP.pdb
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.dll
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.pdb
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.genruntimeconfig.cache
+C:\Users\N.D\Desktop\Test4\RVCP\RVCP\obj\Debug\netcoreapp3.1\RVCP.csprojAssemblyReference.cache
