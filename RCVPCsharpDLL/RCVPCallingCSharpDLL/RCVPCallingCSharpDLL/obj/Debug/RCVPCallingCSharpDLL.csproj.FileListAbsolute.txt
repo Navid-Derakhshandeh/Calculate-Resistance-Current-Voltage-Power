@@ -1,0 +1,10 @@
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\bin\Debug\RCVPCallingCSharpDLL.exe.config
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\bin\Debug\RCVPCallingCSharpDLL.exe
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\bin\Debug\RCVPCallingCSharpDLL.pdb
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\bin\Debug\RCVPCsharpDLL.dll
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\bin\Debug\RCVPCsharpDLL.pdb
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\obj\Debug\RCVPCallingCSharpDLL.csprojAssemblyReference.cache
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\obj\Debug\RCVPCallingCSharpDLL.csproj.CoreCompileInputs.cache
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\obj\Debug\RCVPCallingCSharpDLL.csproj.CopyComplete
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\obj\Debug\RCVPCallingCSharpDLL.exe
+D:\Test4\RCVPCsharpDLL\RCVPCallingCSharpDLL\RCVPCallingCSharpDLL\obj\Debug\RCVPCallingCSharpDLL.pdb

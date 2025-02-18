@@ -1,0 +1,6 @@
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\bin\Debug\RCVPCsharpDLL.dll
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\bin\Debug\RCVPCsharpDLL.pdb
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\obj\Debug\RCVPCsharpDLL.csprojAssemblyReference.cache
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\obj\Debug\RCVPCsharpDLL.csproj.CoreCompileInputs.cache
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\obj\Debug\RCVPCsharpDLL.dll
+D:\Test4\RCVPCsharpDLL\RCVPCsharpDLL\RCVPCsharpDLL\obj\Debug\RCVPCsharpDLL.pdb
