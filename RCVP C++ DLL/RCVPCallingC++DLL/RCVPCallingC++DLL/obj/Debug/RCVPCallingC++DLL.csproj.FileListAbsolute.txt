@@ -1,0 +1,7 @@
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\bin\Debug\RCVPCallingC++DLL.exe.config
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\bin\Debug\RCVPCallingC++DLL.exe
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\bin\Debug\RCVPCallingC++DLL.pdb
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\obj\Debug\RCVPCallingC++DLL.csprojAssemblyReference.cache
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\obj\Debug\RCVPCallingC++DLL.csproj.CoreCompileInputs.cache
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\obj\Debug\RCVPCallingC++DLL.exe
+D:\Test4\RCVP C++ DLL\RCVPCallingC++DLL\RCVPCallingC++DLL\obj\Debug\RCVPCallingC++DLL.pdb
